@@ -1,5 +1,5 @@
 # mohansahstudios.github.io
-studio site map
+##studio site map
 
 ```
 mohansahstudios.github.io/ (Repository Root)
@@ -40,3 +40,22 @@ mohansahstudios.github.io/ (Repository Root)
         ├── privacy.html
         └── terms.html
 ```
+
+## Contact mail roles:
+
+- **For general inquiries: mohansahstudio@gmail.com** 
+
+-  **For your unified privacy policy: mohansahstudio+legal@gmail.com** 
+
+-  **For general support: mohansahstudio+support@gmail.com** 
+
+-  **For specific games:** 
+    - Handcricket : **mohansahstudio+handcricket@gmail.com** 
+
+    - Wordlequestn: **mohansahstudio+wordlequest@gmail.com** 
+
+Gmail has a built-in feature called "Plus Aliasing."
+Gmail completely ignores the plus sign (+) and any words that come after it. Everything just drops into your main inbox.
+
+
+Setting up Labels keep everything under one account.
