@@ -1,11 +1,11 @@
 # mohansahstudios.github.io
 studio site map
 
-
-yourstudio.github.io/ (Repository Root)
+```
+mohansahstudios.github.io/ (Repository Root)
 │
-├── app-ads.txt                 <-- MUST be at the root for Ad Networks to find it
-├── sellers.json                <-- Advanced ad transparency file (often used with app-ads)
+├── app-ads.txt					<-- MUST be at the root for Ad Networks to find it
+├── sellers.json				<-- Advanced ad transparency file (often used with app-ads)
 │
 ├── index.html                  <-- Your actual Studio Homepage (Marketing, Games list)
 │
@@ -39,3 +39,4 @@ yourstudio.github.io/ (Repository Root)
     └── fr/                     <-- French Translations
         ├── privacy.html
         └── terms.html
+```
