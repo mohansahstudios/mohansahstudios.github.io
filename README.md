@@ -43,16 +43,16 @@ mohansahstudios.github.io/ (Repository Root)
 
 ## Contact mail roles:
 
-- **For general inquiries: mohansahstudio@gmail.com** 
+- **For general inquiries: mohansahstudios@gmail.com** 
 
--  **For your unified privacy policy: mohansahstudio+legal@gmail.com** 
+-  **For your unified privacy policy: mohansahstudios+legal@gmail.com** 
 
--  **For general support: mohansahstudio+support@gmail.com** 
+-  **For general support: mohansahstudios+support@gmail.com** 
 
 -  **For specific games:** 
-    - Handcricket : **mohansahstudio+handcricket@gmail.com** 
+    - Handcricket : **mohansahstudios+handcricket@gmail.com** 
 
-    - Wordlequestn: **mohansahstudio+wordlequest@gmail.com** 
+    - Wordlequestn: **mohansahstudios+wordlequest@gmail.com** 
 
 Gmail has a built-in feature called "Plus Aliasing."
 Gmail completely ignores the plus sign (+) and any words that come after it. Everything just drops into your main inbox.
